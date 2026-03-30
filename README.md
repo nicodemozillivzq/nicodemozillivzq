@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Turning business complexity into scalable systems.</strong>
+  <strong>Turning business complexity into scalable systems. 🚀</strong>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Build systems that improve operations, not just software that looks good on pape
 
 ---
 
-## About
+## 🧩 About
 
 I build end-to-end systems with Odoo for businesses that need structure, visibility, and execution at scale.
 
@@ -47,49 +47,49 @@ My work combines ERP architecture, custom module development, process design, in
 
 ---
 
-## What I Build
+## ⚙️ What I Build
 
-### Odoo ERP Systems
+### 🏗️ Odoo ERP Systems
 - End-to-end implementations across Sales, Inventory, CRM, and operational workflows
 - Multi-company environments and process-heavy business structures
 - Architectures designed for clarity, scale, and long-term maintainability
 
-### Custom Development
+### 💻 Custom Development
 - Custom Odoo modules and advanced business logic
 - Barcode, logistics, and traceability flows
 - Tailored operational tools for complex real-world processes
 
-### Integrations
+### 🔗 Integrations
 - CRM, ERP, and third-party platform integrations
 - Middleware and synchronization flows
 - API-driven automation across business systems
 
-### AI + Engineering Workflows
+### 🤖 AI + Engineering Workflows
 - AI-assisted development pipelines
 - Internal systems for debugging, delivery, and execution
 - Practical LLM workflows applied to technical and operational work
 
 ---
 
-## Selected Impact
+## 📈 Selected Impact
 
-- Designed logistics and traceability flows connecting quotation, sales, freight, and inventory execution
-- Built scalable ERP solutions for retail, logistics, and operations-focused environments
-- Integrated Odoo with CRM ecosystems and external services for cleaner, more reliable data flow
-- Standardized delivery workflows to improve repeatability, visibility, and execution quality
-
----
-
-## Current Focus
-
-- Building repeatable Odoo architectures
-- Creating internal AI agent ecosystems for development
-- Improving technical delivery systems for implementation and execution
-- Connecting ERP, automation, and AI into scalable business workflows
+- 🚚 Designed logistics and traceability flows connecting quotation, sales, freight, and inventory execution
+- 🏬 Built scalable ERP solutions for retail, logistics, and operations-focused environments
+- 🔄 Integrated Odoo with CRM ecosystems and external services for cleaner, more reliable data flow
+- 📊 Standardized delivery workflows to improve repeatability, visibility, and execution quality
 
 ---
 
-## Core Stack
+## 🧠 Current Focus
+
+- 🧱 Building repeatable Odoo architectures
+- 🕸️ Creating internal AI agent ecosystems for development
+- ⚡ Improving technical delivery systems for implementation and execution
+- 🔬 Connecting ERP, automation, and AI into scalable business workflows
+
+---
+
+## 🧰 Core Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
@@ -107,11 +107,15 @@ My work combines ERP architecture, custom module development, process design, in
 
 ---
 
-## GitHub Signals
+## 📡 GitHub Signals
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicodemozillivzq&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodemozillivzq&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/nicodemozillivzq?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/last-commit/nicodemozillivzq/nicodemozillivzq?style=for-the-badge&logo=github&label=Profile%20Repo%20Update&color=2F81F7" alt="Last commit" />
+</p>
+
+<p align="center">
+  <strong>Live activity across the profile and repositories.</strong>
 </p>
 
 <p align="center">
@@ -120,7 +124,7 @@ My work combines ERP architecture, custom module development, process design, in
 
 ---
 
-## Philosophy
+## 🧭 Philosophy
 
 > Clarity over complexity.  
 > Systems over hacks.  
@@ -128,7 +132,7 @@ My work combines ERP architecture, custom module development, process design, in
 
 ---
 
-## Connect
+## 🌐 Connect
 
 - Portfolio: [nicodemozillivzq.github.io](https://nicodemozillivzq.github.io/)
 - GitHub: [github.com/nicodemozillivzq](https://github.com/nicodemozillivzq)
